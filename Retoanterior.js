@@ -1,5 +1,10 @@
 // - Declarar las funciones de la calculadora por separado (suma, resta, producto, división)
 (console.log("***** FUNCIONES SEPARADAS"))
+function sum (op1, op2) {
+//    let resultado = op1 + op2
+    return op1 + op2; //return resultado
+} 
+console.log(sum (2, 1));
 
 function subs (op1, op2){
     //    let resultado = op1 - op2
