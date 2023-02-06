@@ -1,0 +1,19 @@
+{
+  "name": "reto1git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraSanchezParra/Reto1git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaraSanchezParra/Reto1git/issues"
+  },
+  "homepage": "https://github.com/SaraSanchezParra/Reto1git#readme"
+}
